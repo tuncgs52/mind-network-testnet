@@ -36,11 +36,18 @@ source ~/.bashrc
 
 ```
 nvm install node
-
 ```
 
 ```
+nvm install 16
+```
 
+```
+nvm use 16
+```
+
+```
+node -v
 ```
 
 
