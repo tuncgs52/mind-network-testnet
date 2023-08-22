@@ -6,12 +6,7 @@ Mind Network, Web3'teki tüm verilerinizi, akıllı sözleşmelerinizi ve yapay 
 
 # İşlemlere başlamadan Önce Metamask Cüzdanınızda Goerli Eth Olsun.
 
-> ## [testnet sitesine giriyoruz.](https://scan.mindnetwork.xyz/)
-
-
-
-
-
+> ## [İlk Önce Twitteki Adımları Yapıyoruz.](https://scan.mindnetwork.xyz/)
 
 
 
