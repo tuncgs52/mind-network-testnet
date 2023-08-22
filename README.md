@@ -5,7 +5,7 @@ Mind Network, Web3'teki tüm verilerinizi, akıllı sözleşmelerinizi ve yapay 
 
 İşlemlere başlamadan Önce Metamask Cüzdanınızda Goerli Eth Olsun.
 
-> ## https://scan.mindnetwork.xyz/
+
 
 
 
