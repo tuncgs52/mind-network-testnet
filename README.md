@@ -1,6 +1,7 @@
 # Mind-Network-Testnet-Ağı
 
-![97393721](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/9c2c95ca-1512-4265-9dfd-a27214fcbc51)
+![97393721](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/1f233c77-d6b0-4ebd-9b48-a6b933affbbe)
+
 
 
 # Mind Network Nedir?
@@ -86,7 +87,8 @@ nano myconfig.ts
 
 Twitteki adımdaki acceskey'i resimdeki "YOUR_APP_KEY=" kısmına yapıştırıyoruz. CTRL, X, Y, ENTER Diyerek kaydediyoruz.
 
-![Ekran görüntüsü 2023-08-22 191631](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/8af304e4-4211-4e63-a93e-3b3a78fe0072)
+![Ekran görüntüsü 2023-08-22 191631](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/f7fe7ad9-8503-4a7b-8afd-d1a2d02f8051)
+
 
 # Yeni bir pencere açıyoruz.
 
@@ -113,15 +115,18 @@ npm run start
 
 Resimdeki gibi "http://sunucuip:8000" kopyalıyoruz ve metamaskın olduğu tarayıcıya yapıştırıyoruz. Vpn bağlı olmayın girmez.
 
-![Ekran görüntüsü 2023-08-22 194921](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/8075ef79-5e73-497f-85a5-c62e85017e58)
+![Ekran görüntüsü 2023-08-22 194921](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/aa6e9aba-597a-410f-83ad-a6eae1813f2c)
+
 
 Tıklıyoruz Metamask açılacak bütün izinleri veriyoruz.
 
-![Ekran görüntüsü 2023-08-22 195730](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/0add9ecb-404f-4b59-948c-089d7559027c)
+![Ekran görüntüsü 2023-08-22 195730](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/e31f437b-8ffc-4ddb-9c4e-1dc53376c580)
+
 
 Bütün işlemler başarılı olunca, Alttaki resim gibi gözükecek.
 
-![Ekran görüntüsü 2023-08-22 195817](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/2c5242d7-e112-4be1-859f-0b1a3a06dd5f)
+![Ekran görüntüsü 2023-08-22 195817](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/bb4261c4-00c9-401c-b8e9-f712960d6f02)
+
 
 İşlemleri yapmak benim çok hoşuma gitti. beğendiyseniz forklamayı unutmayın.
 
