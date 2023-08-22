@@ -123,7 +123,7 @@ Bütün işlemler başarılı olunca, Alttaki resim gibi gözükecek.
 
 ![Ekran görüntüsü 2023-08-22 195817](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/2c5242d7-e112-4be1-859f-0b1a3a06dd5f)
 
-İşlemleri yapmarken benim çok hoşuma gitti. beğendiyseniz forklamayı unutmayın.
+İşlemleri yapmak benim çok hoşuma gitti. beğendiyseniz forklamayı unutmayın.
 
 
 
