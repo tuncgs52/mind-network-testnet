@@ -62,6 +62,30 @@ node -v
 git clone https://github.com/mind-network/mind-lake-sdk-typescript.git
 ```
 
+klasörün içine giriyoruz.
+
+```
+cd mind-lake-sdk-typescript/examples/src
+```
+
+Dosyamızın ismini değiştiriyoruz.
+
+```
+mv myconfig_template.ts myconfig.ts
+```
+
+Dosyamızın içine twitteki acces keyi giriyoruz.
+
+```
+nano myconfig.ts
+```
+
+
+Twitteki adımdaki acceskey'i resimdeki "YOUR_APP_KEY=" kısmına yapıştırıyoruz. CTRL, X, Y, ENTER Diyerek kaydediyoruz.
+
+![Ekran görüntüsü 2023-08-22 191631](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/8af304e4-4211-4e63-a93e-3b3a78fe0072)
+
+
 
 
 
