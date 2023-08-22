@@ -108,6 +108,7 @@ npm install
 npm run start
 ```
 
+Resimdeki gibi "http://sunucuip:8000" kopyalıyoruz ve metamaskın olduğu tarayıcıya yapıştırıyoruz.
 ![Ekran görüntüsü 2023-08-22 194921](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/8075ef79-5e73-497f-85a5-c62e85017e58)
 
 
