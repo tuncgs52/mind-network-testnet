@@ -1,5 +1,8 @@
 # Mind-Network-Testnet-Ağı
 
+![97393721](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/9c2c95ca-1512-4265-9dfd-a27214fcbc51)
+
+
 # Mind Network Nedir?
 Mind Network, Web3'teki tüm verilerinizi, akıllı sözleşmelerinizi ve yapay zekayı koruyan bir Sıfır Güven Veri Gölüdür.
 
@@ -108,15 +111,19 @@ npm install
 npm run start
 ```
 
-Resimdeki gibi "http://sunucuip:8000" kopyalıyoruz ve metamaskın olduğu tarayıcıya yapıştırıyoruz.
+Resimdeki gibi "http://sunucuip:8000" kopyalıyoruz ve metamaskın olduğu tarayıcıya yapıştırıyoruz. Vpn bağlı olmayın girmez.
+
 ![Ekran görüntüsü 2023-08-22 194921](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/8075ef79-5e73-497f-85a5-c62e85017e58)
 
+Tıklıyoruz Metamask açılacak bütün izinleri veriyoruz.
 
+![Ekran görüntüsü 2023-08-22 195730](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/0add9ecb-404f-4b59-948c-089d7559027c)
 
+Bütün işlemler başarılı olunca, Alttaki resim gibi gözükecek.
 
+![Ekran görüntüsü 2023-08-22 195817](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/2c5242d7-e112-4be1-859f-0b1a3a06dd5f)
 
-
-
+İşlemleri yapmarken benim çok hoşuma gitti. beğendiyseniz forklamayı unutmayın.
 
 
 
