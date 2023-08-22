@@ -85,7 +85,35 @@ Twitteki adımdaki acceskey'i resimdeki "YOUR_APP_KEY=" kısmına yapıştırıy
 
 ![Ekran görüntüsü 2023-08-22 191631](https://github.com/tuncgs52/mind-network-testnet/assets/80161670/8af304e4-4211-4e63-a93e-3b3a78fe0072)
 
+# Yeni bir pencere açıyoruz.
 
+```
+screen -S mind
+```
+
+Klasörün içine giriyoruz.
+
+```
+cd
+cd mind-lake-sdk-typescript/examples
+```
+
+```
+npm install
+```
+
+2, 3dk bekliyoruz.
+
+```
+npm run start
+```
+
+```
+```
+```
+```
+```
+```
 
 
 
