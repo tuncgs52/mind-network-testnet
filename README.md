@@ -3,6 +3,15 @@
 # Mind Network Nedir?
 Mind Network, Web3'teki tüm verilerinizi, akıllı sözleşmelerinizi ve yapay zekayı koruyan bir Sıfır Güven Veri Gölüdür.
 
+İşlemlere başlamadan Önce Metamask Cüzdanınızda Goerli Eth Olsun.
+
+> ## https://scan.mindnetwork.xyz/
+
+
+
+
+
+
 #  Bu işlemleri yaparken ben sunucu kullandım.
 Gerekli Kütüphanleri İndiriyoruz.
 
@@ -49,6 +58,14 @@ nvm use 16
 ```
 node -v
 ```
+
+# Repoyu Klonluyoruz.
+```
+git clone https://github.com/mind-network/mind-lake-sdk-typescript.git
+```
+
+
+
 
 
 
